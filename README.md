@@ -18,15 +18,15 @@ The data covers the years 2024, 2023, and 2022, and the dashboard allows for yea
 
 ## Dashboard Screenshots
 
-### [Gross Profit]
+### Gross Profit
 
 ![Gross Profit](images/Gross_Profit_View.PNG)
 
-### [Quantity]
+### Quantity
 
 ![Quantity](images/Quantity_View.PNG)
 
-### [Sales]
+### Sales
 
 ![Sales](images/Sales_View.PNG)
 
